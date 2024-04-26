@@ -26,4 +26,4 @@ git clone https://github.com/your-username/quiz-app.git
 cd quiz-app
 
 
-Hosting : 
+Hosting : https://thebughunter17.github.io/Quiz-app.github.io/
